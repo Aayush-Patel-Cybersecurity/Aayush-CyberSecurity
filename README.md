@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @Aayush<br>👀 I’m interested in cybersecurity<br>🌱 I’m currently learning networking and Linux<br>📫 How to reach me: mail me at supernova08683@gmail.com<br>⚡ Fun fact: I started learning about cybersecurity in high school.
+👋 Hi, I’m @Aayush<br>👀 I’m interested in cybersecurity<br>🌱 I’m currently learning networking and Linux<br>📫 How to reach me: mail me at cybersec.alerts.aayush@gmail.com
+<br>⚡ Fun fact: I started learning about cybersecurity in high school.
 
 
 ## 🌐 Socials:
